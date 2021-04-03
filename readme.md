@@ -1,3 +1,4 @@
+
 # Data Visualization - Ford GoBike (Bike Shares Dataset)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -33,8 +34,7 @@ How long is the average trip?
 Does average trip time differ if user is a subscriber or customer?
 
 ## Slideshow
-https://user-images.githubusercontent.com/80590275/113487492-6c39d980-94c9-11eb-92d9-74f1f4228703.mp4
-
+[![Watch the video](https://user-images.githubusercontent.com/80590275/113487551-d2266100-94c9-11eb-8e12-2289df9e9b4c.gif)](https://user-images.githubusercontent.com/80590275/113487492-6c39d980-94c9-11eb-92d9-74f1f4228703.mp4)
 
 ### You can view this Jupyter Notebook as a slide by going to this directory in your terminal, and running the following command:
 jupyter nbconvert Bike_Sharing_Analysis_Viz.ipynb --to slides --post serve --template output_toggle

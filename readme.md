@@ -60,7 +60,9 @@ The stations with the most trips are located in San Francisco and connect to pub
 <!-- CONTACT -->
 ## Contact
 
-Kareem Ayyad- [@kareem_ayyad](https://twitter.com/kareem_ayyad) - kareem@ayyad.net
+Kareem Ayyad - [@kareem_ayyad](https://twitter.com/kareem_ayyad) - kareem@ayyad.net
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project Link: [https://github.com/kareemayyad/BikeSharing-Analysis-Visualization-DAND](https://github.com/kareemayyad/BikeSharing-Analysis-Visualization-DAND)
 

@@ -26,12 +26,19 @@ CSV File is downloaded from [Ford GoBike](https://video.udacity-data.com/topher/
 
 ## Main Features of Interest
 What time of day are trips taking place?
+
 What locations are the busiest, and does time affect station traffic?
+
 What User Profiles (age, user_type, gender) are riding trips?
+
 Do different user profiles correspond to different trips? different times? Do they frequent different stations?
+
 Is bike sharing more common amongst certain ages?
+
 How long is the average trip?
+
 Does average trip time differ if user is a subscriber or customer?
+
 
 ## Slideshow
 [![Watch the video](https://user-images.githubusercontent.com/80590275/113487551-d2266100-94c9-11eb-8e12-2289df9e9b4c.gif)](https://user-images.githubusercontent.com/80590275/113487492-6c39d980-94c9-11eb-92d9-74f1f4228703.mp4)
